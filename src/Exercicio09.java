@@ -4,7 +4,7 @@ public class Exercicio09 {
 
     public static void main(String[] args) {
 
-        //entrada de dados
+        //declaraco de variaveis
         Scanner sc = new Scanner(System.in);
         int valor, valorInvertido, unidade, dezena, centena;
 
